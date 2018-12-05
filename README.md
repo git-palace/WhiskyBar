@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/stepankuzmin/WhiskyBar/master/screenshot.png">
+<img align="right" src="https://raw.githubusercontent.com/git-palace/WhiskyBar/master/screenshot.png">
 
 # WhiskyBar
 
@@ -11,7 +11,7 @@ You have to install [Xcode](https://developer.apple.com/xcode/).
 Clone source code
 
 ```sh
-git clone https://github.com/stepankuzmin/WhiskyBar.git
+git clone https://github.com/git-palace/WhiskyBar.git
 cd WhiskyBar
 yarn
 ```
